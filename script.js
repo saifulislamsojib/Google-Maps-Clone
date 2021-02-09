@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1Ijoic2FpZnVsaXNsYW0tc29qaWIiLCJhIjoiY2treHJtNG83MHRkdjJxbzRhYjB3ZTEwOSJ9.jXcdDnohsJ8bU5fRUhXKrA';
+mapboxgl.accessToken = 'pk.eyJ1Ijoic2FpZnVsaXNsYW0tc29qaWIiLCJhIjoiY2treHV6bzRlMms3bjJucW55ZmtpYnJjeCJ9.LoEoojSjWOiXVqNcm3KUfA';
 
 navigator.geolocation.getCurrentPosition(successLocation, errorLocation, {
     enableHighAccuracy: true
